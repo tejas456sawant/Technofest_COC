@@ -1,0 +1,8 @@
+25 minutes will be given to attempt total of 50 mcq (Multiple Choice Questions).
+2 marks will be added in score for one correct answer and 2 marks will be subtracted for one wrong answer
+To start the test, click on 'Start'.
+Once the test is started the timer would run irrespective of your logged in or logged our status. So it is recommended not to logout before test completion.
+To mark an answer you need to select it and press the 'Lock' button. Upon locking, the selected answer would be displayed and the question will be marked "green"
+Use the navigation buttons to navigate through different questions.
+Participant found cheating or handling mobile phones will be directly discaulified.
+Check that you are attempting selected language quiz.

@@ -1,0 +1,24 @@
+Objectives:
+	To provide a platform for young engineers to challenge other participants and test their competitive programming knowledge.
+Structure:	
+Round 1:
+	In first round, you have to solve simple MCQ’s based on basic knowledge of C or C++ programming language. You have to solve these questions in team.
+	This round is of 15 minutes with questions of different difficulty level. The scores associated with each question differs according to its difficulty level. Top scores will qualify for next round.
+Round 2:
+           In second round, a problem statement given. Both members will have to solve the problem together. The teams providing correct solution with least time will be selected for final round.
+Round 3:
+	You will be given two problem statements. Each member has to solve one problem statement at a time on different PCs.
+          After half time both members will be swapped and have to solve other team member’s problem statement.
+          First group who will solve both the problem statement will be the winner of Clash of Codes. Runner up would also be awarded.
+
+Team: 2 Members (Not Compulsory but recommended).
+Entry Fee: Rs. 50/-
+
+Prize:
+1st prize: Cash prize of Rs.3000 and trophy.
+Runner Up: Cash prize of Rs.2000 and trophy.
+Rules:
+•	Use of mobile is not allowed.
+•	Use of Internet is not allowed.
+•	College ID is mandatory.
+
